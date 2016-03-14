@@ -1,4 +1,4 @@
-# タイトル：Screen Chat （仮）
+# タイトル：Screen Chat 
 
 ---
 
